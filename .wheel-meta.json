@@ -1,0 +1,22 @@
+{
+  "wheel_id": 865,
+  "structure": "umbrella",
+  "slug": "homeloanbrokerwollongong-156",
+  "project": "mortgage-brokers-wollongong-cost-guide-33d36a264a4762bfd20a34f1",
+  "parent_t1_ref": "homeloanbrokerwollongong-016",
+  "node_role": "buffer",
+  "money_target": "homeloanbrokerwollongong.com.au",
+  "primary_kw": "mortgage brokers wollongong cost guide",
+  "intended_url": "https://sitesau.github.io/homeloanbrokerwollongong-156/",
+  "tier": "T2",
+  "writeback_nonce": "6a92d71b77513601",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/mortgage-brokers-wollongong-homeloanbrokerwollongong-016/",
+      "anchor": "Mortgage Brokers Wollongong: A Borrower Decision Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
